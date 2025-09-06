@@ -1,0 +1,5 @@
+Crea un nuevo archivo texto.txt con contenido de tu elección.
+Usa fs.createReadStream() para leer el archivo.
+Implementa un Transform Stream que convierta el texto a mayúsculas.
+Guarda el resultado en un nuevo archivo texto_mayusculas.txt.
+Código base sugerido:
